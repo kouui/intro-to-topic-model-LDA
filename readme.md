@@ -22,4 +22,4 @@ to run `./intro-to-topic-model.ipynb` online by binder, access the following lin
 ](https://mybinder.org/v2/gh/kouui/intro-to-topic-model-LDA/master?filepath=intro-to-topic-model.ipynb
 )
 
-**Warning : be aware of generating `wordcloud` in using binder's server online, which will probably kill your python kernel**.
+**Warning : be aware of generating `wordcloud` using binder's server online, because it will probably kill your python kernel**.
